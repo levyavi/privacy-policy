@@ -6,6 +6,8 @@ This repository contains a privacy policy template that complies with Google AdM
 
 - **privacy-policy.html** - HTML version ready for hosting on a website
 - **privacy-policy.md** - Markdown version for easy editing
+- **child-safety-policy.html** - HTML version of Child Safety Standards Policy
+- **child-safety-policy.md** - Markdown version of Child Safety Standards Policy
 
 ## Setup Instructions
 
@@ -16,11 +18,12 @@ This repository contains a privacy policy template that complies with Google AdM
    - Update the "Last updated" date
    - Review and modify any sections specific to your app's functionality
 
-2. **Host the Privacy Policy:**
+2. **Host the Policies:**
 
-   - Upload the HTML file to a publicly accessible URL (e.g., GitHub Pages, your website, or a hosting service)
-   - Ensure the URL is accessible without authentication
-   - Test that the page loads correctly
+   - Upload the HTML files to a publicly accessible URL (e.g., GitHub Pages, your website, or a hosting service)
+   - Ensure the URLs are accessible without authentication
+   - Test that the pages load correctly
+   - You can host both the privacy policy and child safety policy on the same site
 
 3. **Add to Google Play Console:**
 
@@ -44,7 +47,20 @@ This repository contains a privacy policy template that complies with Google AdM
 
 ✅ AdMob data collection disclosure  
 ✅ Google Play Store requirements  
+✅ Google Child Safety Standards Policy compliance  
 ✅ COPPA compliance (children's privacy)  
 ✅ CCPA compliance (California privacy rights)  
 ✅ GDPR considerations (international data transfers)  
 ✅ User rights and opt-out options
+
+## Child Safety Standards
+
+The **child-safety-policy.html** and **child-safety-policy.md** files contain a comprehensive Child Safety Standards Policy that complies with:
+
+- Google's Child Safety Standards Policy
+- Zero tolerance for child sexual abuse and exploitation (CSAE)
+- COPPA requirements for child-directed apps
+- Age-appropriate content standards
+- Parental controls and supervision guidance
+
+**Note:** If your app is directed to children or may be used by children, you should host both the privacy policy and child safety policy publicly and reference them in your app and Google Play Console.
