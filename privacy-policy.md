@@ -86,7 +86,7 @@ Your information may be transferred to and processed in countries other than you
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** levyavi@hotmail.com
+**Email:** halfbakesoftware@gmail.com
 
 ## 12. California Privacy Rights
 

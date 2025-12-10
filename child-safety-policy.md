@@ -100,7 +100,7 @@ We will notify users of any material changes to this policy by updating the "Las
 
 If you have any questions, concerns, or wish to report a violation of our Child Safety Standards Policy, please contact us:
 
-**Email:** levyavi@hotmail.com
+**Email:** halfbakesoftware@gmail.com
 
 For urgent child safety concerns, please contact us immediately. We will respond promptly to all reports.
 
