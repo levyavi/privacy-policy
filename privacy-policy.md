@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** December 3, 2025
+**Last updated:** February 26, 2026
 
 This Privacy Policy describes how our mobile application ("App") collects, uses, and shares information when you use our App. By using our App, you agree to the collection and use of information in accordance with this policy.
 
@@ -86,7 +86,7 @@ Your information may be transferred to and processed in countries other than you
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** halfbakesoftware@gmail.com
+**Email:** levyavi@gmail.com
 
 ## 12. California Privacy Rights
 
